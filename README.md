@@ -1,2 +1,13 @@
-# WATCHES---Wear-your-style
-WATCHES is a sleek and responsive eCommerce website template designed to showcase luxury and modern watch collections. Featuring a clean UI, interactive sliders, and elegant layouts, it highlights product details, new arrivals, and brand stories. Built with HTML, CSS, and Swiper.js, it ensures a premium browsing and shopping experience
+# Responsive Watches Website ⌚
+## [Watch it on youtube](https://youtu.be/QPxYdbbCjhQ)
+### Responsive Watches Website ⌚
+
+- Responsive Watches Website Using HTML CSS & JavaScript
+- Smooth scrolling in each section.
+- Includes a dark and light mode.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+
+![preview img](/preview.png)
